@@ -1,0 +1,16 @@
+PODS:
+  - GYDate (0.1.0)
+
+DEPENDENCIES:
+  - GYDate (from `../`)
+
+EXTERNAL SOURCES:
+  GYDate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GYDate: 23b44f497ee633ccf0149179b248ff28b4421fa5
+
+PODFILE CHECKSUM: 8b3f826abf2f63ad048fd7f031ce3379a845ced0
+
+COCOAPODS: 1.12.0
