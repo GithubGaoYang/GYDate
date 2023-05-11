@@ -1,16 +1,23 @@
 PODS:
   - GYDate (0.1.0)
+  - SwiftLint (0.51.0)
 
 DEPENDENCIES:
   - GYDate (from `../`)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - SwiftLint
 
 EXTERNAL SOURCES:
   GYDate:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GYDate: 23b44f497ee633ccf0149179b248ff28b4421fa5
+  GYDate: ea42b9f9ae731311503b358314cb82f71dede72d
+  SwiftLint: 1b7561918a19e23bfed960e40759086e70f4dba5
 
-PODFILE CHECKSUM: 8b3f826abf2f63ad048fd7f031ce3379a845ced0
+PODFILE CHECKSUM: 25582c2379a0dcef2d5d4c0392c5598b8fb19358
 
 COCOAPODS: 1.12.0

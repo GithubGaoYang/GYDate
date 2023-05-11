@@ -1,6 +1,6 @@
 # GYDate
 
-[![CI Status](https://img.shields.io/travis/gaoyangzhongguo@foxmail.com/GYDate.svg?style=flat)](https://travis-ci.org/gaoyangzhongguo@foxmail.com/GYDate)
+[![CI Status](https://img.shields.io/travis/GithubGaoYang/GYDate.svg?style=flat)](https://travis-ci.org/GithubGaoYang/GYDate)
 [![Version](https://img.shields.io/cocoapods/v/GYDate.svg?style=flat)](https://cocoapods.org/pods/GYDate)
 [![License](https://img.shields.io/cocoapods/l/GYDate.svg?style=flat)](https://cocoapods.org/pods/GYDate)
 [![Platform](https://img.shields.io/cocoapods/p/GYDate.svg?style=flat)](https://cocoapods.org/pods/GYDate)
@@ -22,7 +22,7 @@ pod 'GYDate'
 
 ## Author
 
-gaoyangzhongguo@foxmail.com, gaoyangzhongguo@foxmail.com
+GaoYang, gaoyangzhongguo@foxmail.com
 
 ## License
 
